@@ -6,10 +6,10 @@
 | level01     | DONE ||
 | level02     | DONE ||
 | level03     | DONE ||
-| level04     | TBD ||
-| level05     | TBD ||
-| level06     | TBD ||
-| level07     | TBD ||
+| level04     | DONE ||
+| level05     | DONE ||
+| level06     | DONE ||
+| level07     | DONE ||
 | level08     | TBD ||
 | level09     | TBD ||
 | level10     | TBD ||
