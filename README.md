@@ -10,7 +10,7 @@
 | level05     | [DONE](level05.md) ||
 | level06     | [DONE](level06.md) ||
 | level07     | [DONE](level07.md) ||
-| level08     | TBD ||
+| level08     | [DONE](level08.md) ||
 | level09     | TBD ||
 | level10     | TBD ||
 | level11     | TBD ||
